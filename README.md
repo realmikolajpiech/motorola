@@ -1,8 +1,12 @@
-# CrossGuard — Dokumentacja Techniczna i Przewodnik Edukacyjny
+# CrossGuard
 
-Projekt **CrossGuard** to zaawansowany, edukacyjny symulator 3D ruchu pieszego i bezpieczeństwa miejskiego, stworzony w ramach konkursu **Motorola Solutions Science Cup 2026**. Gra została zaimplementowana w czystym JavaScript (ES Modules) przy użyciu biblioteki **Three.js (r170)** i interfejsów Web APIs (w tym Web Audio API dla pełnej syntezy dźwięków), bez konieczności stosowania narzędzi budujących (no-build setup).
+**Educational 3D pedestrian-safety simulation** for the **Motorola Solutions Science Cup 2026**.
 
-Niniejszy plik stanowi wyczerpujący podręcznik techniczny, który wyjaśnia architekturę projektu, matematykę stojącą za zjazdami i zaokrąglonymi krawędziami wyspy, logikę syntezy audio oraz zasady działania sztucznej inteligencji pojazdów.
+Live demo: [motorola-mu.vercel.app](https://motorola-mu.vercel.app)
+
+Walk a floating city as a pedestrian, score safe vs unsafe choices, and explore traffic, weather, and day/night systems. Built as a no-build **Three.js (r170)** + **Web Audio API** ES-module app under `crossguard/`.
+
+> Poniżej: pełna dokumentacja techniczna i przewodnik edukacyjny (PL).
 
 ---
 
